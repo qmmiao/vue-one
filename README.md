@@ -1,4 +1,4 @@
-# 1722vue
+# vue1
 
 > A Vue.js project
 
